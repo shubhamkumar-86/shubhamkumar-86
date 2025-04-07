@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar2400" alt="shubhamkumar2400" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Tableau, Power BI & Looker Studio**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, Tailwind CSS, MongoDB, Cloud & Machine Learning**
 
-- 💬 Ask me about **Python, SQL, Excel, and Statistics**
+- 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau and Statistics**
 
 - 📫 How to reach me **shubhamkurtha@gmail.com**
 
