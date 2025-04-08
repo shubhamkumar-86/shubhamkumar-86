@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar2400" alt="shubhamkumar2400" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, Tailwind CSS, MongoDB, Cloud & Machine Learning**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, Linux, Git & Github, Tailwind CSS, MongoDB, Cloud & Machine Learning**
 
 - 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau and Statistics**
 
