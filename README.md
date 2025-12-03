@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar2400&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar2400" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-86&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-86" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar2400" alt="shubhamkumar2400" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar-86" alt="shubhamkumar-86" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, Linux, Git & Github, Tailwind CSS, MongoDB, Cloud & Machine Learning**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, Linux, Git & Github, Tailwind CSS, Node.js, MongoDB, Data structure & Algorithm**
 
-- 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau and Statistics**
+- 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau, and Statistics**
 
 - 📫 How to reach me **shubhamkurtha@gmail.com**
 
