@@ -9,7 +9,7 @@
 
 <!-- 💜 Animated welcome GIF -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="600px">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="700px" >
 </h2>
 
 <br/>
