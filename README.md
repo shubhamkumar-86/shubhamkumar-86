@@ -1,29 +1,95 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate Data Analyst & Web Developer</h3>
+<!-- 💖 Typing animation introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=F54927&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+Shubham+Kumar!;Aspiring+Web+Developer+and+Data+Analyst;learning+by+building." alt="Typing SVG"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-86&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-86" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar-86" alt="shubhamkumar-86" /></a> </p>
+<!-- 💜 Animated welcome GIF -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
+</h2>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React JS, Linux, Git & Github, Tailwind CSS, Node.js, MongoDB, Data structure & Algorithm**
+<br/>
 
-- 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau, and Statistics**
+<!-- 💛 Social badges -->
+[![X](https://img.shields.io/badge/X-0E090F?style=for-the-badge&logo=X&logoColor=blue)](https://x.com/Shubhamkumar240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar-py/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shubhamkumar0024/)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/shubhamkurtha)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://www.geeksforgeeks.org/profile/shubhamkurtha)
 
-- 📫 How to reach me **shubhamkurtha@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/shubhamkumar2400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shubhamkumar2400" height="30" width="40" /></a>
-<a href="https://twitter.com/shubhamkumar240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamkumar240" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham2400/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamkumar-py/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shubhambro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shubhambro" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shubhamkurtha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shubhamkurtha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shubhamkumar0024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubhamkumar0024/" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<!-- 💗 Skills & Tools Section -->
+<details open>
+<summary><b>Skills & Tools</b></summary>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkumar-86&show_icons=true&locale=en&layout=compact" alt="shubhamkumar-86" /></p>
+<!-- Frontend -->
+![HTML](https://img.shields.io/badge/HTML-ED4D07?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-06B6D4?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcn&logoColor=white)&nbsp;
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkumar-86&show_icons=true&locale=en" alt="shubhamkumar-86" /></p>
+<!-- Languages -->
+![Python](https://img.shields.io/badge/-Python-25C425?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+<!-- Frameworks & Libraries -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)&nbsp;
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+
+<!-- Database -->
+![MySQL](https://img.shields.io/badge/MySQL-113682?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
+![PostgrSql](https://img.shields.io/badge/postgresql-0F2252?style=for-the-badge&logo=postgresql&logoColor=green)&nbsp;
+
+<!-- DevOps & Tools -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+
+</details>
+
+<br/>
+
+<!-- 💖 GitHub Stats -->
+<details open>
+<summary><b>⚡ My GitHub Performance</b></summary>
+<br/>
+
+<!-- 💜 GitHub streak stats -->
+<img src="https://streak-stats.demolab.com/?user=shubhamkumar86&theme=gotham&hide_border=false" width="450" />
+<br/>
+<!-- 💚 Most used languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar86&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
+</details>
+
+<br/>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+<br>
+
+
+
+<!-- 💖 Contact -->
+### You can reach me at: **<shubhamkurtha@gmail.com>**
