@@ -5,6 +5,8 @@
   </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-86&label=Profile%20views&color=F42A37&style=flat" alt="shubhamkumar-86" /> </p>
+
 <br/>
 
 <!-- 💜 Animated welcome GIF -->
