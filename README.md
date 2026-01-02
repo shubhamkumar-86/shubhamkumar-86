@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=C0FF1F&center=true&multiline=true&repeat=true&width=800&height=120&lines=Hi%2C+I'm+Shubham+Kumar!;Aspiring+Web+Developer+and+Data+Analyst;learning+by+building." alt="Typing SVG"/>
   </a>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-86&label=Profile%20views&color=F42A37&style=flat" alt="shubhamkumar-86" /> </p>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-86&label=Profile%20views&color=F42A37&style=flat" alt="shubhamkumar-86" /> </p>
 
 <br/>
 
