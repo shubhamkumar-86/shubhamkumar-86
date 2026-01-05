@@ -24,7 +24,6 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://www.geeksforgeeks.org/profile/shubhamkurtha)
 
 
-<br/>
 
 <!-- 💗 Skills & Tools Section -->
 <details open>
